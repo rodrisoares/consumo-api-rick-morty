@@ -5,6 +5,7 @@ Esse projeto é um consumo de dados da API da série rick and morty, onde é ret
 ## 🚀 Tecnologias utilizadas:
 - Vue.js para construção da aplicação.
 - Bootstrap framework css.
+- API utilizada:  https://rickandmortyapi.com/
 
 ## Layout:
 
