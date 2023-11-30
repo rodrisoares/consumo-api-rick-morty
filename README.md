@@ -2,10 +2,11 @@
 
 Esse projeto é um consumo de dados da API da série rick and morty, onde é retornado cards com os dados dos personagens, ao clicar em um card é possivel exibir detalhes do personagem e no campo de busca é possivel localizar um personagem.
 
+ API utilizada:  https://rickandmortyapi.com/
+
 ## 🚀 Tecnologias utilizadas:
 - Vue.js para construção da aplicação.
 - Bootstrap framework css.
-- API utilizada:  https://rickandmortyapi.com/
 
 ## Layout:
 
