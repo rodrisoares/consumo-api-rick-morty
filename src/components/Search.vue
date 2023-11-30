@@ -1,7 +1,7 @@
 <template>
     <div class="buscar-container">
       <div class="img-container">
-        <img src="@/assets/rickandmorty.png" alt="logo rick and morty"/>
+        <img src="@/assets/img/rickandmorty.png" alt="logo rick and morty"/>
       </div>
       <div>
         <div id="form">
